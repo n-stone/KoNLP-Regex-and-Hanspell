@@ -1,6 +1,6 @@
 # NLP Regex + Hanspell Check
 
-### 1. Introduce 
+### 1. Introduce
 
 - NLP 정규식
   - 자음, 모음, 특수기호 제거
@@ -22,3 +22,7 @@
     >
   - > $ python setup.py install
     >
+
+### 3. Release
+
+- 22. 11. 21 : 네이버 맞춤법 코드 추가
